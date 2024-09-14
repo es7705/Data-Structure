@@ -1,0 +1,6 @@
+﻿  3-6ex3_6.c
+  3-6addPoly.c
+  코드를 생성하고 있습니다...
+D:\My data\Study\Coding\data structure\ch3\ch3\3-6addPoly.c(40,3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+x64\Debug\3-6addPoly.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  ch3.vcxproj -> D:\My data\Study\Coding\data structure\ch3\x64\Debug\ch3.exe

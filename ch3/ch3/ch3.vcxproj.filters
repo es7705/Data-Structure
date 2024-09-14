@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Section1 순차 자료구조와 선형 리스트의 이해">
+      <UniqueIdentifier>{591e0866-0093-416e-b047-7682115ae5c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section2 선형 리스트의 연산과 알고리즘">
+      <UniqueIdentifier>{ccef0a24-1226-46fc-bbd0-eeaf481effc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section3.2 선형 리스트의 응용 및 구현">
+      <UniqueIdentifier>{8d0e622a-0ee0-4104-a654-f3e004c3cecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section3.1 선형 리스트의 응용 및 구현">
+      <UniqueIdentifier>{c8bfbc57-2d52-4a3f-bb8d-779a742de3ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3-1.c">
+      <Filter>소스 파일\Section1 순차 자료구조와 선형 리스트의 이해</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.c">
+      <Filter>소스 파일\Section1 순차 자료구조와 선형 리스트의 이해</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.c">
+      <Filter>소스 파일\Section1 순차 자료구조와 선형 리스트의 이해</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4ex3_4.c">
+      <Filter>소스 파일\Section2 선형 리스트의 연산과 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4listS.c">
+      <Filter>소스 파일\Section2 선형 리스트의 연산과 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5ex3_5.c">
+      <Filter>소스 파일\Section3.1 선형 리스트의 응용 및 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5SmTranspose.c">
+      <Filter>소스 파일\Section3.1 선형 리스트의 응용 및 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6ex3_6.c">
+      <Filter>소스 파일\Section3.2 선형 리스트의 응용 및 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6addPoly.h">
+      <Filter>소스 파일\Section3.2 선형 리스트의 응용 및 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6addPoly.c">
+      <Filter>소스 파일\Section3.2 선형 리스트의 응용 및 구현</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3-4listS.h">
+      <Filter>소스 파일\Section2 선형 리스트의 연산과 알고리즘</Filter>
+    </ClInclude>
+    <ClInclude Include="3-5SmTranspose.h">
+      <Filter>소스 파일\Section3.1 선형 리스트의 응용 및 구현</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
