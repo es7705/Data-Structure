@@ -1,0 +1,131 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Josephus: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\josephus_build.ps1' '${file}'",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Josephus: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\josephus_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Recursion: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\recursion_build.ps1' '${file}'",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Recursion: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\recursion_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch3: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch3_build.ps1' '${file}'",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch3: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch3_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch4: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch4_build.ps1' '${file}'",
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch4: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch4_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch5: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch5_build.ps1' '${file}'",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch5: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch5_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch6: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch6_build.ps1' '${file}'",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch6: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch6_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch7: Build Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch7_build.ps1' '${file}'",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "ch7: Build and Run Current",
+      "type": "shell",
+      "options": { "shell": { "executable": "powershell.exe", "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-Command"] } },
+      "command": "& '.vscode\\ch7_build.ps1' '${file}' -runAfterBuild",
+      "group": "test",
+      "presentation": { "reveal": "always", "focus": true, "panel": "shared" },
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}

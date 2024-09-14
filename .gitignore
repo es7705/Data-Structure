@@ -1,0 +1,33 @@
+# Build output
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.idb
+
+# MSBuild intermediate
+*.tlog
+*.recipe
+*.log
+*.FileListAbsolute.txt
+*.CppClean.log
+x64/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.ipch
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.vsidx
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Claude
+.claude/

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Section2">
+      <UniqueIdentifier>{d3061511-60f3-4463-a1c5-ba357c10e7e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section2\단순 연결 리스트 프로그램 1">
+      <UniqueIdentifier>{5e1d13ee-73cc-4263-9dd7-170f9bc58d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section5">
+      <UniqueIdentifier>{6f21089c-307e-481b-83c2-7e6861df91fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section4">
+      <UniqueIdentifier>{ae90d7aa-7a7d-4556-b793-cdeae83ecb1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section4\이중 연결 리스트">
+      <UniqueIdentifier>{bb01ff81-5e9a-4367-976a-f94472e02209}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section3">
+      <UniqueIdentifier>{ddd5b914-3b10-4134-aa7f-3daae210b1f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section3\원형 연결 리스트">
+      <UniqueIdentifier>{d344164a-fc53-4652-8567-31de848dc70c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section5">
+      <UniqueIdentifier>{8c7f1837-d5ac-45dd-95f6-8182ae13442e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section2">
+      <UniqueIdentifier>{39d404ea-b8fc-48c4-8272-08f74d67512b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section2\단순 연결 리스트 프로그램 1">
+      <UniqueIdentifier>{38cda4bb-ae1c-477a-9118-dc9eb943b6b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section3">
+      <UniqueIdentifier>{a9f3887d-192c-44a3-b364-6f04bd59deb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section3\원형 연결 리스트">
+      <UniqueIdentifier>{4ce8317f-8e50-463d-9fd4-6debb5b3691a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section4">
+      <UniqueIdentifier>{2d8b3350-0b06-4cfd-9fe8-43f29701d33d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section4\이중 연결 리스트">
+      <UniqueIdentifier>{436d5cb0-579a-4faf-b569-e5d0200a53c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="4-1 ex4_1.c">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClCompile>
+    <ClCompile Include="4-1 InsertLinkedList.c">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2 LinkedList.c">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2 ex4_2.c">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClCompile>
+    <ClCompile Include="4-3 ex4_3.c">
+      <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-3 CircularlinkedList.c">
+      <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4 ex4_4.c">
+      <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4 DoubleLinkedLinst.c">
+      <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-5 LinkedPoly.c">
+      <Filter>소스 파일\Section5</Filter>
+    </ClCompile>
+    <ClCompile Include="4-5 ex4_5.c">
+      <Filter>소스 파일\Section5</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="4-1 InsertLinkedList.h">
+      <Filter>헤더 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClInclude>
+    <ClInclude Include="4-2 LinkedList.h">
+      <Filter>헤더 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClInclude>
+    <ClInclude Include="4-3 CircularlinkedList.h">
+      <Filter>헤더 파일\Section3\원형 연결 리스트</Filter>
+    </ClInclude>
+    <ClInclude Include="4-4 DoubleLinkedLinst.h">
+      <Filter>헤더 파일\Section4\이중 연결 리스트</Filter>
+    </ClInclude>
+    <ClInclude Include="4-5 LinkedPoly.h">
+      <Filter>헤더 파일\Section5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

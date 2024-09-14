@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Section3 Deque">
+      <UniqueIdentifier>{a4cfdcb8-d251-4686-a23d-0b2abeaa797c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section2">
+      <UniqueIdentifier>{3fe440fd-2153-4e8b-89d3-eb3757414165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section2">
+      <UniqueIdentifier>{d100e870-d397-4a7b-a8b0-b63e5ac5ac88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Section3 Deque">
+      <UniqueIdentifier>{df21341a-6b96-4b99-b849-f749993a9b6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="6-1 ex6_1.c">
+      <Filter>소스 파일\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1 queueS.c">
+      <Filter>소스 파일\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2 cQueueS.c">
+      <Filter>소스 파일\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2 ex6_2.c">
+      <Filter>소스 파일\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3 ex6_3.c">
+      <Filter>소스 파일\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3 LinkedQueue.c">
+      <Filter>소스 파일\Section2</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4 deQue.c">
+      <Filter>소스 파일\Section3 Deque</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4 ex6_4.c">
+      <Filter>소스 파일\Section3 Deque</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="6-1 queueS.h">
+      <Filter>헤더 파일\Section2</Filter>
+    </ClInclude>
+    <ClInclude Include="6-2 cQueueS.h">
+      <Filter>헤더 파일\Section2</Filter>
+    </ClInclude>
+    <ClInclude Include="6-3 LinkedQueue.h">
+      <Filter>헤더 파일\Section2</Filter>
+    </ClInclude>
+    <ClInclude Include="6-4 deQue.h">
+      <Filter>헤더 파일\Section3 Deque</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

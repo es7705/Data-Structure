@@ -1,0 +1,13 @@
+{
+  "files.encoding": "euc-kr",
+  "editor.formatOnSave": false,
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.cppStandard": "c++17",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt": {
+      "path": "cmd.exe",
+      "args": ["/k", "chcp 949"]
+    }
+  }
+}
