@@ -3,17 +3,14 @@ D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(1,1): warning C4819: �
 D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2LinkedList.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   (소스 파일 '4-2ex4_2.c'을(를) 컴파일하는 중)
   
-  4-2LinkedList.c
-D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2LinkedList.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2LinkedList.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  (소스 파일 '4-2LinkedList.c'을(를) 컴파일하는 중)
-  
-D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2LinkedList.c(13,3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2LinkedList.c(14,3): warning C4033: 'createLinkedList_h'은(는) 값을 반환해야 합니다.
-  4-3ex4_3.c
-D:\My data\Study\Coding\Data Structure\ch4\ch4\4-3ex4_3.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  4-3CircularlinkedList.c
-  코드를 생성하고 있습니다...
-D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2LinkedList.c(18,1): warning C4715: 'createLinkedList_h': 모든 제어 경로에서 값을 반환하지는 않습니다.
-x64\Debug\4-2LinkedList.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
-  ch4.vcxproj -> D:\My data\Study\Coding\Data Structure\ch4\x64\Debug\ch4.exe
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(15,21): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(16,2): error C2146: 구문 오류: ')'이(가) 'insertLastNode' 식별자 앞에 없습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(16,20): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(17,20): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(21,20): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(22,2): error C2143: 구문 오류: ')'이(가) 'if' 앞에 없습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(23,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(26,25): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(27,2): error C2146: 구문 오류: ')'이(가) 'printList' 식별자 앞에 없습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(30,20): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2ex4_2.c(31,2): error C2146: 구문 오류: ')'이(가) 'deleteNode' 식별자 앞에 없습니다.
