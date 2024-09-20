@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3ex4_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-3ex4_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3CircularlinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-3CircularlinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3CircularlinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-3CircularlinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-2ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-2LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-2LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-1ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-1InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-1InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-3ex4_3.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3ex4_3.c",
+              "RelativeDocumentMoniker": "ch4\\4-3ex4_3.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3ex4_3.c",
+              "RelativeToolTip": "ch4\\4-3ex4_3.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T04:56:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4-3CircularlinkedList.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3CircularlinkedList.h",
+              "RelativeDocumentMoniker": "ch4\\4-3CircularlinkedList.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3CircularlinkedList.h",
+              "RelativeToolTip": "ch4\\4-3CircularlinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T04:56:48.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4-3CircularlinkedList.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3CircularlinkedList.c",
+              "RelativeDocumentMoniker": "ch4\\4-3CircularlinkedList.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-3CircularlinkedList.c",
+              "RelativeToolTip": "ch4\\4-3CircularlinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T04:56:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "4-1ex4_1.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1ex4_1.c",
+              "RelativeDocumentMoniker": "ch4\\4-1ex4_1.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1ex4_1.c",
+              "RelativeToolTip": "ch4\\4-1ex4_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T04:56:43.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "4-1InsertLinkedList.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1InsertLinkedList.c",
+              "RelativeDocumentMoniker": "ch4\\4-1InsertLinkedList.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1InsertLinkedList.c",
+              "RelativeToolTip": "ch4\\4-1InsertLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T04:56:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "4-1InsertLinkedList.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1InsertLinkedList.h",
+              "RelativeDocumentMoniker": "ch4\\4-1InsertLinkedList.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-1InsertLinkedList.h",
+              "RelativeToolTip": "ch4\\4-1InsertLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T04:56:42.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4-2ex4_2.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2ex4_2.c",
+              "RelativeDocumentMoniker": "ch4\\4-2ex4_2.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2ex4_2.c",
+              "RelativeToolTip": "ch4\\4-2ex4_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T04:55:40.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4-2LinkedList.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.h",
+              "RelativeDocumentMoniker": "ch4\\4-2LinkedList.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.h",
+              "RelativeToolTip": "ch4\\4-2LinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T04:55:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4-2LinkedList.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.c",
+              "RelativeDocumentMoniker": "ch4\\4-2LinkedList.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.c",
+              "RelativeToolTip": "ch4\\4-2LinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T04:55:39.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
