@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-2ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5ex4_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-5ex4_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-2LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5LinkedPoly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-5LinkedPoly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-2LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5LinkedPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4303CDB-E724-4B44-8226-CFC0CFF64F11}|ch4\\ch4.vcxproj|solutionrelative:ch4\\4-5LinkedPoly.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,29 +26,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "4-2LinkedList.c",
-              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.c",
-              "RelativeDocumentMoniker": "ch4\\4-2LinkedList.c",
-              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.c",
-              "RelativeToolTip": "ch4\\4-2LinkedList.c",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-20T05:20:30.672Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "4-5LinkedPoly.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5LinkedPoly.h",
+              "RelativeDocumentMoniker": "ch4\\4-5LinkedPoly.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5LinkedPoly.h",
+              "RelativeToolTip": "ch4\\4-5LinkedPoly.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T15:46:42.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "4-2LinkedList.h",
-              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.h",
-              "RelativeDocumentMoniker": "ch4\\4-2LinkedList.h",
-              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2LinkedList.h",
-              "RelativeToolTip": "ch4\\4-2LinkedList.h",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-20T07:29:12.213Z",
+              "DocumentIndex": 2,
+              "Title": "4-5LinkedPoly.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5LinkedPoly.c",
+              "RelativeDocumentMoniker": "ch4\\4-5LinkedPoly.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5LinkedPoly.c",
+              "RelativeToolTip": "ch4\\4-5LinkedPoly.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T15:46:40.713Z",
               "EditorCaption": ""
             },
             {
@@ -66,14 +65,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "4-2ex4_2.c",
-              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2ex4_2.c",
-              "RelativeDocumentMoniker": "ch4\\4-2ex4_2.c",
-              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-2ex4_2.c*",
-              "RelativeToolTip": "ch4\\4-2ex4_2.c*",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA1wBQAAAAYAAAAAAAAAA==",
+              "Title": "4-5ex4_5.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5ex4_5.c",
+              "RelativeDocumentMoniker": "ch4\\4-5ex4_5.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch4\\ch4\\4-5ex4_5.c",
+              "RelativeToolTip": "ch4\\4-5ex4_5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-20T05:20:33.243Z",
+              "WhenOpened": "2024-09-20T15:46:40.925Z",
               "EditorCaption": ""
             }
           ]

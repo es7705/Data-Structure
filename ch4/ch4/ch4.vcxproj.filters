@@ -19,14 +19,20 @@
     <Filter Include="소스 파일\Section2\단순 연결 리스트 프로그램 1">
       <UniqueIdentifier>{5acb3275-86dc-451e-9d69-2fc1d75b4d62}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Section2\단순 뎐결 리스트 프로그램 2">
-      <UniqueIdentifier>{28a308ac-560e-4565-8588-730886a28c99}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Section3">
       <UniqueIdentifier>{d6748f27-975d-490e-847e-f1644a31e901}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Section3\원형 연결 리스트">
       <UniqueIdentifier>{09ceeb6b-b98b-4a73-8f0f-b1bf4a00d1ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section4">
+      <UniqueIdentifier>{9cac2078-b0fd-463f-830b-409588910eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section4\이중 연결 리스트">
+      <UniqueIdentifier>{3184a2d0-cb8e-45eb-ba0c-bc10509f3cff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section5">
+      <UniqueIdentifier>{988d5cdc-4b21-4804-876c-c9d1b77d3c38}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -36,20 +42,23 @@
     <ClCompile Include="4-1InsertLinkedList.c">
       <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
     </ClCompile>
-    <ClCompile Include="4-2LinkedList.h">
-      <Filter>소스 파일\Section2\단순 뎐결 리스트 프로그램 2</Filter>
-    </ClCompile>
-    <ClCompile Include="4-2LinkedList.c">
-      <Filter>소스 파일\Section2\단순 뎐결 리스트 프로그램 2</Filter>
-    </ClCompile>
-    <ClCompile Include="4-2ex4_2.c">
-      <Filter>소스 파일\Section2\단순 뎐결 리스트 프로그램 2</Filter>
-    </ClCompile>
     <ClCompile Include="4-3ex4_3.c">
       <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
     </ClCompile>
     <ClCompile Include="4-3CircularlinkedList.c">
       <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4DoubleLinkedLinst.c">
+      <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4ex4_4.c">
+      <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="4-5LinkedPoly.c">
+      <Filter>소스 파일\Section5</Filter>
+    </ClCompile>
+    <ClCompile Include="4-5ex4_5.c">
+      <Filter>소스 파일\Section5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -58,6 +67,12 @@
     </ClInclude>
     <ClInclude Include="4-3CircularlinkedList.h">
       <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
+    </ClInclude>
+    <ClInclude Include="4-4DoubleLinkedLinst.h">
+      <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
+    </ClInclude>
+    <ClInclude Include="4-5LinkedPoly.h">
+      <Filter>소스 파일\Section5</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -21,15 +21,18 @@
   <ItemGroup>
     <ClCompile Include="4-1InsertLinkedList.c" />
     <ClCompile Include="4-1ex4_1.c" />
-    <ClCompile Include="4-2ex4_2.c" />
-    <ClCompile Include="4-2LinkedList.h" />
-    <ClCompile Include="4-2LinkedList.c" />
     <ClCompile Include="4-3ex4_3.c" />
     <ClCompile Include="4-3CircularlinkedList.c" />
+    <ClCompile Include="4-4DoubleLinkedLinst.c" />
+    <ClCompile Include="4-4ex4_4.c" />
+    <ClCompile Include="4-5ex4_5.c" />
+    <ClCompile Include="4-5LinkedPoly.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="4-1InsertLinkedList.h" />
     <ClInclude Include="4-3CircularlinkedList.h" />
+    <ClInclude Include="4-4DoubleLinkedLinst.h" />
+    <ClInclude Include="4-5LinkedPoly.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
