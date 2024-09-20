@@ -10,7 +10,7 @@ linkedList_h* createLinkedList_h(void)
 {
 	linkedList_h* CL;
 	CL = (linkedList_h*)malloc(sizeof(linkedList_h));
-	//CL->head = NULL;
+	CL->head = NULL;
 	return CL;
 }
 
@@ -36,7 +36,7 @@ void printList(linkedList_h* CL)
 }
 
 // 첫 번째 노드 삽입 연산
-void insertFisrtNode(linkedList_h* CL, char* x)
+void insertFirstNode(linkedList_h* CL, char* x)
 {
 	listNode* newNode, * temp;	// temp : 임시 순회 포인터
 	newNode = (listNode*)malloc(sizeof(listNode));
