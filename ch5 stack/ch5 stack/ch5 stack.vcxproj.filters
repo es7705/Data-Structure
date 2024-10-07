@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\순차 자료구조를 이용한 스택">
+      <UniqueIdentifier>{d4e4e104-3ca1-47e4-b89a-51f4b19f1248}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\연결 자료구조를 이용한 스택">
+      <UniqueIdentifier>{12b06ce1-e147-461f-accc-548d73e7655e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택을 이용한 수식의 괄호 검사">
+      <UniqueIdentifier>{62b304ca-fbd4-4e6d-be76-419de12abda8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택을 이용한 휘위 표기법 수식의 연산">
+      <UniqueIdentifier>{86a5bfde-9a72-4297-9aef-b1d15a423da5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="5-1 stackS.c">
+      <Filter>소스 파일\순차 자료구조를 이용한 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="5-1 ex5_1.c">
+      <Filter>소스 파일\순차 자료구조를 이용한 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="5-2 stackL.c">
+      <Filter>소스 파일\연결 자료구조를 이용한 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="5-2 ex5_2.c">
+      <Filter>소스 파일\연결 자료구조를 이용한 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="5-3 testPair.c">
+      <Filter>소스 파일\스택을 이용한 수식의 괄호 검사</Filter>
+    </ClCompile>
+    <ClCompile Include="5-3 ex5_3.c">
+      <Filter>소스 파일\스택을 이용한 수식의 괄호 검사</Filter>
+    </ClCompile>
+    <ClCompile Include="5-4 evalPostfix.c">
+      <Filter>소스 파일\스택을 이용한 휘위 표기법 수식의 연산</Filter>
+    </ClCompile>
+    <ClCompile Include="5-4 ex5_4.c">
+      <Filter>소스 파일\스택을 이용한 휘위 표기법 수식의 연산</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="5-1 stackS.h">
+      <Filter>소스 파일\순차 자료구조를 이용한 스택</Filter>
+    </ClInclude>
+    <ClInclude Include="5-2 stackL.h">
+      <Filter>소스 파일\연결 자료구조를 이용한 스택</Filter>
+    </ClInclude>
+    <ClInclude Include="5-3 stackL.h">
+      <Filter>소스 파일\스택을 이용한 수식의 괄호 검사</Filter>
+    </ClInclude>
+    <ClInclude Include="5-3 testPair.h">
+      <Filter>소스 파일\스택을 이용한 수식의 괄호 검사</Filter>
+    </ClInclude>
+    <ClInclude Include="5-4 stackL.h">
+      <Filter>소스 파일\스택을 이용한 휘위 표기법 수식의 연산</Filter>
+    </ClInclude>
+    <ClInclude Include="5-4 evalPostfix.h">
+      <Filter>소스 파일\스택을 이용한 휘위 표기법 수식의 연산</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="5-3 stackL.c">
+      <Filter>소스 파일\스택을 이용한 수식의 괄호 검사</Filter>
+    </None>
+    <None Include="5-4 stackL.c">
+      <Filter>소스 파일\스택을 이용한 휘위 표기법 수식의 연산</Filter>
+    </None>
+  </ItemGroup>
+</Project>

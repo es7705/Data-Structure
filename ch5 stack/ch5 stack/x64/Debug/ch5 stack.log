@@ -1,0 +1,5 @@
+﻿  5-4 evalPostfix.c
+D:\My data\Study\Coding\Data Structure\ch5 stack\ch5 stack\5-4 evalPostfix.c(10,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  5-4 ex5_4.c
+  코드를 생성하고 있습니다...
+  ch5 stack.vcxproj -> D:\My data\Study\Coding\Data Structure\ch5 stack\x64\Debug\ch5 stack.exe
