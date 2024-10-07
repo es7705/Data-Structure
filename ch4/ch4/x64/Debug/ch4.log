@@ -1,4 +1,7 @@
-﻿  4-5LinkedPoly.c
-  4-5ex4_5.c
+﻿  4-2 LinkedList.c
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2 LinkedList.c(15,3): warning C4033: 'createLinkedList_h'은(는) 값을 반환해야 합니다.
+  4-2 ex4_2.c
   코드를 생성하고 있습니다...
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2 LinkedList.c(19,1): warning C4715: 'createLinkedList_h': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\My data\Study\Coding\Data Structure\ch4\ch4\4-2 LinkedList.c(154,1): warning C4715: 'searchNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
   ch4.vcxproj -> D:\My data\Study\Coding\Data Structure\ch4\x64\Debug\ch4.exe
