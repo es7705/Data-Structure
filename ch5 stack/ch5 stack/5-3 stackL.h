@@ -1,3 +1,4 @@
+#if 0
 #pragma once
 #ifndef stackL__H_
 #define stackL__H_
@@ -18,3 +19,4 @@ element peek(void);
 void printStack(void);
 
 #endif // !stackL__H_
+#endif

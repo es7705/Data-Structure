@@ -1,3 +1,4 @@
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include "5-2 stackL.h"	
@@ -66,3 +67,4 @@ void printStack(void)
 	}
 	printf("] ");
 }
+#endif

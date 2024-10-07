@@ -1,3 +1,4 @@
+#if 0
 #include <stdio.h>
 #include <string.h> 
 #include "5-3 stackL.h"
@@ -54,3 +55,4 @@ int testPair(char* exp)
     else                // 공백이 아니면 0을 반환(수식 괄호 틀림)
         return 0;       // 0 반환하여 괄호 쌍이 틀림을 알림    
 }
+#endif

@@ -1,4 +1,5 @@
 // 5-3 스택을 이용해 수식의 괄호 쌍 검사하기
+#if 0
 #include <stdio.h>
 #include "5-3 stackL.h"
 #include "5-3 testPair.h"
@@ -17,3 +18,5 @@ int main(void)
 
 	return 0;
 }
+
+#endif

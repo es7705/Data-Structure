@@ -1,3 +1,4 @@
+#if 1
 #pragma once
 #ifndef stack__H
 #define stack__H_
@@ -13,4 +14,5 @@ void push(element item);
 element pop(void);
 element peek(void);
 void printStack(void);
+#endif
 #endif
