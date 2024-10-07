@@ -36,43 +36,52 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4-1ex4_1.c">
+    <ClCompile Include="4-1 ex4_1.c">
       <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
     </ClCompile>
-    <ClCompile Include="4-1InsertLinkedList.c">
+    <ClCompile Include="4-1 InsertLinkedList.c">
       <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
     </ClCompile>
-    <ClCompile Include="4-3ex4_3.c">
+    <ClCompile Include="4-3 ex4_3.c">
       <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
     </ClCompile>
-    <ClCompile Include="4-3CircularlinkedList.c">
+    <ClCompile Include="4-3 CircularlinkedList.c">
       <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
     </ClCompile>
-    <ClCompile Include="4-4DoubleLinkedLinst.c">
+    <ClCompile Include="4-4 DoubleLinkedLinst.c">
       <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
     </ClCompile>
-    <ClCompile Include="4-4ex4_4.c">
+    <ClCompile Include="4-4 ex4_4.c">
       <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
     </ClCompile>
-    <ClCompile Include="4-5LinkedPoly.c">
+    <ClCompile Include="4-5 LinkedPoly.c">
       <Filter>소스 파일\Section5</Filter>
     </ClCompile>
-    <ClCompile Include="4-5ex4_5.c">
+    <ClCompile Include="4-5 ex4_5.c">
       <Filter>소스 파일\Section5</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2 ex4_2.c">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2 LinkedList.c">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="4-1InsertLinkedList.h">
+    <ClInclude Include="4-1 InsertLinkedList.h">
       <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
     </ClInclude>
-    <ClInclude Include="4-3CircularlinkedList.h">
+    <ClInclude Include="4-3 CircularlinkedList.h">
       <Filter>소스 파일\Section3\원형 연결 리스트</Filter>
     </ClInclude>
-    <ClInclude Include="4-4DoubleLinkedLinst.h">
+    <ClInclude Include="4-4 DoubleLinkedLinst.h">
       <Filter>소스 파일\Section4\이중 연결 리스트</Filter>
     </ClInclude>
-    <ClInclude Include="4-5LinkedPoly.h">
+    <ClInclude Include="4-5 LinkedPoly.h">
       <Filter>소스 파일\Section5</Filter>
+    </ClInclude>
+    <ClInclude Include="4-2 LinkedList.h">
+      <Filter>소스 파일\Section2\단순 연결 리스트 프로그램 1</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
