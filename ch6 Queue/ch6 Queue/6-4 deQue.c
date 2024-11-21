@@ -1,3 +1,4 @@
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include "6-4 deQue.h"
@@ -165,3 +166,4 @@ void printDQ(DQueType* DQ)
 	}
 	printf(" ] ");
 }
+#endif

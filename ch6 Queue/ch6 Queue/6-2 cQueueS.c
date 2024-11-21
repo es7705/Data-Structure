@@ -1,3 +1,4 @@
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include "6-2 cQueueS.h"
@@ -85,3 +86,6 @@ void printCQ(QueueType* cQ)
 	}
 	printf(" ] ");
 }
+
+
+#endif

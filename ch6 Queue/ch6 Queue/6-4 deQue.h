@@ -1,3 +1,4 @@
+#if 0
 #pragma once
 typedef char element;	// 큐 원소(element)의 자료형을 char로 정의
 
@@ -20,3 +21,4 @@ element deleteRear(DQueType* DQ);
 element peekFront(DQueType* DQ);
 element peekRear(DQueType* DQ);
 void printDQ(DQueType* DQ);
+#endif	

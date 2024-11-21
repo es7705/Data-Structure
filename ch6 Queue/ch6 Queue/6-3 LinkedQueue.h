@@ -1,3 +1,4 @@
+#if 0
 #pragma once
 typedef char element;		// 연결 큐 원소(element)의 자료형을 char로 정의
 
@@ -17,3 +18,4 @@ void enLQueue(LQueueType* LQ, element item);
 element deLQueue(LQueueType* LQ);
 element peekLQ(LQueueType* LQ);
 void printLQ(LQueueType* LQ);
+#endif
