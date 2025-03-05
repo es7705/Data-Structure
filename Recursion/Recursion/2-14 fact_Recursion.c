@@ -1,4 +1,5 @@
 // 2-14 재귀호출을 이용해 팩토리얼 값 구하기
+#if 0
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -35,3 +36,6 @@ long int fact(int n)
 		return value;
 	}
 }
+
+#endif
+
