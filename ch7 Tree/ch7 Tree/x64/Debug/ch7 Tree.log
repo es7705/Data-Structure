@@ -1,0 +1,7 @@
+﻿  7-3 trreadBT.c
+D:\My data\Study\Coding\Data Structure\ch7 Tree\7-3 trreadBT.c(11,13): warning C4133: '=': 'treeThNode *'과(와) 'treeThreadNode *' 사이의 형식이 호환되지 않습니다.
+D:\My data\Study\Coding\Data Structure\ch7 Tree\7-3 trreadBT.c(12,14): warning C4133: '=': 'treeThNode *'과(와) 'treeThreadNode *' 사이의 형식이 호환되지 않습니다.
+D:\My data\Study\Coding\Data Structure\ch7 Tree\7-3 trreadBT.c(26,5): warning C4133: '=': 'treeThreadNode *'과(와) 'treeThNode *' 사이의 형식이 호환되지 않습니다.
+D:\My data\Study\Coding\Data Structure\ch7 Tree\7-3 trreadBT.c(20,14): warning C4133: '초기화 중': 'treeThreadNode *'과(와) 'treeThNode *' 사이의 형식이 호환되지 않습니다.
+D:\My data\Study\Coding\Data Structure\ch7 Tree\7-3 trreadBT.c(36,5): warning C4133: '=': 'treeThreadNode *'과(와) 'treeThNode *' 사이의 형식이 호환되지 않습니다.
+  ch7 Tree.vcxproj -> D:\My data\Study\Coding\Data Structure\ch7 Tree\x64\Debug\ch7 Tree.exe

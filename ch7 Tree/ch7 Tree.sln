@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch7 Tree", "ch7 Tree.vcxproj", "{75899708-E676-479B-84BF-55E8E2221C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75899708-E676-479B-84BF-55E8E2221C51}.Debug|x64.ActiveCfg = Debug|x64
+		{75899708-E676-479B-84BF-55E8E2221C51}.Debug|x64.Build.0 = Debug|x64
+		{75899708-E676-479B-84BF-55E8E2221C51}.Debug|x86.ActiveCfg = Debug|Win32
+		{75899708-E676-479B-84BF-55E8E2221C51}.Debug|x86.Build.0 = Debug|Win32
+		{75899708-E676-479B-84BF-55E8E2221C51}.Release|x64.ActiveCfg = Release|x64
+		{75899708-E676-479B-84BF-55E8E2221C51}.Release|x64.Build.0 = Release|x64
+		{75899708-E676-479B-84BF-55E8E2221C51}.Release|x86.ActiveCfg = Release|Win32
+		{75899708-E676-479B-84BF-55E8E2221C51}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF9F57D-4C15-4AB6-9F8D-C02F1219B46E}
+	EndGlobalSection
+EndGlobal

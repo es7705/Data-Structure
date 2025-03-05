@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\이진 트리 순회">
+      <UniqueIdentifier>{05e3d4bd-0215-4907-a9f6-9481bb970640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\이진 트리 순회">
+      <UniqueIdentifier>{37b07249-f513-48b4-a69f-d99daf6a62c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\이진 트리 순회의 응용 프로그램">
+      <UniqueIdentifier>{b4d43096-d532-4c75-92e6-6b3e710ddbed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\이진 트리 순회의 응용 프로그램">
+      <UniqueIdentifier>{ef8c8b48-dca3-49c1-9144-14584149c367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스래드 이진 트리">
+      <UniqueIdentifier>{36d163ca-9020-4cba-a7d7-312227dd4686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\스래드 이진 트리">
+      <UniqueIdentifier>{d22dc287-76d2-49f3-be80-e7724ce8e87e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BST.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 traversalIBT.c">
+      <Filter>소스 파일\이진 트리 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1 ex7_1.c">
+      <Filter>소스 파일\이진 트리 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 folderSize.c">
+      <Filter>소스 파일\이진 트리 순회의 응용 프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 ex7_2.c">
+      <Filter>소스 파일\이진 트리 순회의 응용 프로그램</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 threadBT.c">
+      <Filter>소스 파일\스래드 이진 트리</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 ex7_3.c">
+      <Filter>소스 파일\스래드 이진 트리</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="7-1 traversalIBT.h">
+      <Filter>헤더 파일\이진 트리 순회</Filter>
+    </ClInclude>
+    <ClInclude Include="7-2 folderSize.h">
+      <Filter>헤더 파일\이진 트리 순회의 응용 프로그램</Filter>
+    </ClInclude>
+    <ClInclude Include="7-3 threadBT.h">
+      <Filter>헤더 파일\스래드 이진 트리</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
