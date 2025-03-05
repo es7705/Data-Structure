@@ -1,3 +1,4 @@
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include "7-1 traversalIBT.h"
@@ -44,3 +45,6 @@ void postorder(treeNdoe* root)
 		printf("%c", root->data);	// 현재 노드의 데이터를 출력 (작업D)
 	}
 }
+#endif
+
+

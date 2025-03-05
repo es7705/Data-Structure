@@ -1,4 +1,5 @@
 // 7-3 스레드 이진 트리 구현하기
+#if 1
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include "7-3 threadBT.h"
@@ -25,3 +26,5 @@ int main()
 
 	return 0;
 }
+
+#endif

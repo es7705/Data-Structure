@@ -1,3 +1,4 @@
+#if 0
 #pragma once
 int FolderSize;
 
@@ -10,3 +11,4 @@ typedef struct treeNode
 
 treeNode* makeRootNode(int size, treeNode* leftNode, treeNode* rightNode);
 int postorder_FolderSize(treeNode* root);
+#endif

@@ -1,3 +1,4 @@
+#if 1
 #pragma once
 typedef struct treeThNode		// 스레드 이진 트리의 노드 정의
 {
@@ -10,3 +11,4 @@ typedef struct treeThNode		// 스레드 이진 트리의 노드 정의
 treeThNode* makeRootThNode(char data, treeThNode* leftNode, treeThNode* rightNode, int isThreadRight);
 treeThNode* findThreadSuccessor(treeThNode* p);
 void threadInorder(treeThNode* root);
+#endif

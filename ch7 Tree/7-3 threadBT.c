@@ -1,3 +1,4 @@
+#if 1
 #include <stdio.h>
 #include <stdlib.h>
 #include "7-3 threadBT.h"
@@ -38,3 +39,4 @@ void threadInorder(treeThNode* root)
 		q = findThreadSuccessor(q);
 	} while (q);
 }
+#endif
