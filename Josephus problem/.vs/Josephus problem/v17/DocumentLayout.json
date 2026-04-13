@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data Structure\\Josephus problem\\",
+  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data-Structure\\Josephus problem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCD70A1D-A063-41D1-9631-4C2B0FD35EF0}|Josephus problem\\Josephus problem.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\Josephus problem\\Josephus problem\\Josephus problem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CCD70A1D-A063-41D1-9631-4C2B0FD35EF0}|Josephus problem\\Josephus problem.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\Josephus problem\\Josephus problem\\Josephus problem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CCD70A1D-A063-41D1-9631-4C2B0FD35EF0}|Josephus problem\\Josephus problem.vcxproj|solutionrelative:Josephus problem\\Josephus problem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Josephus problem.c",
-              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\Josephus problem\\Josephus problem\\Josephus problem.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\Josephus problem\\Josephus problem\\Josephus problem.c",
               "RelativeDocumentMoniker": "Josephus problem\\Josephus problem.c",
-              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\Josephus problem\\Josephus problem\\Josephus problem.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\Josephus problem\\Josephus problem\\Josephus problem.c",
               "RelativeToolTip": "Josephus problem\\Josephus problem.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-10T18:40:47.431Z",
               "EditorCaption": ""

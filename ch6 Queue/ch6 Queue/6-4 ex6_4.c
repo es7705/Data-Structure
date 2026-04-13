@@ -1,5 +1,4 @@
 // 6-4 이중 연결 리스트를 이용해서 데크 구현하기
-#if 0
 #include <stdio.h>	
 #include "6-4 deQue.h"
 
@@ -51,4 +50,3 @@ int main(void)
 	getchar();
 	return 0;
 }
-#endif

@@ -1,4 +1,3 @@
-#if 0
 #include <stdlib.h>
 #include "7-2 folderSize.h"
 
@@ -23,4 +22,3 @@ int postorder_FolderSize(treeNode* root)
 	}
 	return FolderSize;
 }
-#endif

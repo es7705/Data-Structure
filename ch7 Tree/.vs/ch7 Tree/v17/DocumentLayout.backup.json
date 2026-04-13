@@ -1,14 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\",
+  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\7-3 ex7_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 folderSize.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-2 folderSize.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 threadBT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-3 threadBT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 ex7_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-3 ex7_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\7-3 threadBT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-3 threadBT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 threadBT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-3 threadBT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 ex7_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-1 ex7_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 traversalIBT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-1 traversalIBT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 folderSize.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-2 folderSize.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 ex7_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-2 ex7_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\BST.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:BST.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 traversalIBT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75899708-E676-479B-84BF-55E8E2221C51}|ch7 Tree.vcxproj|solutionrelative:7-1 traversalIBT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,12 +73,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "7-2 folderSize.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 folderSize.h",
+              "RelativeDocumentMoniker": "7-2 folderSize.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 folderSize.h",
+              "RelativeToolTip": "7-2 folderSize.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-13T15:01:33.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "7-1 traversalIBT.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 traversalIBT.h",
+              "RelativeDocumentMoniker": "7-1 traversalIBT.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 traversalIBT.h",
+              "RelativeToolTip": "7-1 traversalIBT.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-13T15:01:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BST.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\BST.c",
+              "RelativeDocumentMoniker": "BST.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\BST.c",
+              "RelativeToolTip": "BST.c",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAANoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T15:01:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "7-2 ex7_2.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 ex7_2.c",
+              "RelativeDocumentMoniker": "7-2 ex7_2.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 ex7_2.c",
+              "RelativeToolTip": "7-2 ex7_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T15:01:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "7-2 folderSize.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 folderSize.c",
+              "RelativeDocumentMoniker": "7-2 folderSize.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-2 folderSize.c",
+              "RelativeToolTip": "7-2 folderSize.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T15:01:28.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "7-1 traversalIBT.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 traversalIBT.c",
+              "RelativeDocumentMoniker": "7-1 traversalIBT.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 traversalIBT.c",
+              "RelativeToolTip": "7-1 traversalIBT.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T15:01:28.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "7-1 ex7_1.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 ex7_1.c",
+              "RelativeDocumentMoniker": "7-1 ex7_1.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-1 ex7_1.c",
+              "RelativeToolTip": "7-1 ex7_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T15:01:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7-3 threadBT.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 threadBT.h",
+              "RelativeDocumentMoniker": "7-3 threadBT.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 threadBT.h",
+              "RelativeToolTip": "7-3 threadBT.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-14T15:03:30.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "7-3 ex7_3.c",
-              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\7-3 ex7_3.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 ex7_3.c",
               "RelativeDocumentMoniker": "7-3 ex7_3.c",
-              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\7-3 ex7_3.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 ex7_3.c",
               "RelativeToolTip": "7-3 ex7_3.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-14T15:03:41.403Z",
               "EditorCaption": ""
@@ -55,11 +191,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "7-3 threadBT.c",
-              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\7-3 threadBT.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 threadBT.c",
               "RelativeDocumentMoniker": "7-3 threadBT.c",
-              "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\ch7 Tree\\7-3 threadBT.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch7 Tree\\7-3 threadBT.c",
               "RelativeToolTip": "7-3 threadBT.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-22T14:49:52.794Z",
               "EditorCaption": ""

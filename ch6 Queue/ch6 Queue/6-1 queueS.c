@@ -1,4 +1,3 @@
-#if 0
 #include <stdio.h>	
 #include <stdlib.h>
 #include "6-1 queueS.h"
@@ -80,4 +79,3 @@ void printQ(QueueType* Q)
 		printf("%3c", Q->queue[i]);				// 각 원소를 출력
 	printf(" ]");
 }
-#endif

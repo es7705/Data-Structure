@@ -1,5 +1,4 @@
 // 5-1 순차 자료구조를 이용해 순차 스택 구현하기
-#if 0
 #include <stdio.h>	
 #include "5-1 stackS.h"
 
@@ -38,4 +37,3 @@ int main(void)
 
 	return 0;
 }
-#endif

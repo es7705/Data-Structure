@@ -1,4 +1,3 @@
-#if 0
 #include <stdio.h>
 #include <stdlib.h>	
 #include "6-3 LinkedQueue.h"
@@ -89,4 +88,3 @@ void printLQ(LQueueType* LQ)
 	}
 	printf(" ] ");
 }
-#endif

@@ -1,4 +1,3 @@
-#if 0
 #include <string.h>
 #include "5-4 stackL.h"
 #include "5-4 evalPostfix.h"
@@ -46,4 +45,3 @@ element evalPostfix(char* exp)
     // 수식 exp에 대한 처리를 마친 후 스택에 남아 있는 결괏값을 pop하여 반환
     return pop();
 }
-#endif

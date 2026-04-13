@@ -1,4 +1,3 @@
-#if 1
 #include <stdio.h>
 #include "5-1 stackS.h"
 
@@ -69,7 +68,6 @@ void printStack(void)
     }
     printf("] ");
 }
-#endif
 
 
 

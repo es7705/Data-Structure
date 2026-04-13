@@ -1,4 +1,3 @@
-#if 0
 #pragma once
 #define cQ_SIZE 4
 
@@ -17,4 +16,3 @@ element deCQueue(QueueType* cQ);
 element peekCQ(QueueType* cQ);
 void printCQ(QueueType* cQ);
 
-#endif

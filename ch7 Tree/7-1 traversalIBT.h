@@ -1,4 +1,3 @@
-#if 0
 #pragma once
 typedef char element;
 
@@ -14,4 +13,3 @@ treeNdoe* makeRootNode(element data, treeNdoe* leftNode, treeNdoe* rightNode);
 void preorder(treeNdoe* root);	// 이진 트리에 대한 전위 순회 연산
 void inorder(treeNdoe* root);	// 이진 트리에 대한 중위 순회 연산
 void postorder(treeNdoe* root); // 이진 트리에 대한 후위 순회 연산
-#endif

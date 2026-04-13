@@ -1,5 +1,4 @@
 // 이진 검색 트리 BST
-#if 0
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
@@ -217,6 +216,4 @@ treeNode* removeNode(treeNode* t, int target)
 
 	return t; 
 }
-#endif
-
 

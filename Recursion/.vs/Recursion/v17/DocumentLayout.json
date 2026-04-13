@@ -1,10 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data Structure\\Recursion\\",
+  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data-Structure\\Recursion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34DA12C0-AA32-4F5B-BBEB-B9500112EC49}|Recursion\\Recursion.vcxproj|D:\\My data\\Study\\Coding\\Data Structure\\Recursion\\Recursion\\Recursion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34DA12C0-AA32-4F5B-BBEB-B9500112EC49}|Recursion\\Recursion.vcxproj|solutionrelative:Recursion\\Recursion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My data\\Study\\Coding\\Data Structure\\Recursion\\Recursion\\Recursion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,13 +32,11 @@
               "DocumentIndex": 0,
               "Title": "Recursion.c",
               "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data Structure\\Recursion\\Recursion\\Recursion.c",
-              "RelativeDocumentMoniker": "Recursion\\Recursion.c",
+              "RelativeDocumentMoniker": "..\\..\\Data Structure\\Recursion\\Recursion\\Recursion.c",
               "ToolTip": "D:\\My data\\Study\\Coding\\Data Structure\\Recursion\\Recursion\\Recursion.c",
-              "RelativeToolTip": "Recursion\\Recursion.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\Data Structure\\Recursion\\Recursion\\Recursion.c",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-10T18:58:38.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T18:58:38.804Z"
             }
           ]
         }

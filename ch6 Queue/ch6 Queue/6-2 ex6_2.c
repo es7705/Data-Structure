@@ -1,4 +1,3 @@
-#if 0
 // 6-2 순차 자료구조를 이용해 원형 큐 구현하기
 #include <stdio.h>	
 #include "6-2 cQueueS.h"
@@ -49,4 +48,3 @@ int main(void)
 	getchar();
 	return 0;
 }
-#endif
