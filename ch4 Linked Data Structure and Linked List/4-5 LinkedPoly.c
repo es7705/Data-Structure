@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "4-5 LinkedPoly.h"	
+#include "4-5LinkedPoly.h"	
 
 // 공백 다항식 리스트를 생성하는 연산
 ListHead* createLinkedList(void)
