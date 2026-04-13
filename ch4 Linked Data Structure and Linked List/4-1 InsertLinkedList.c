@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <string.h>
 #include <stdlib.h>
-#include "4-1InsertLinkedList.h"
+#include "4-1 InsertLinkedList.h"
 
 // 공백 연결 리스트를 생성하는 연산
 linkedList_h* createLinkedList_h(void)

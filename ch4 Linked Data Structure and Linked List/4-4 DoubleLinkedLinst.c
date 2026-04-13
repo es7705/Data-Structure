@@ -2,7 +2,7 @@
 #include <stdio.h>	
 #include <string.h>
 #include <stdlib.h>	
-#include "4-4DoubleLinkedLinst.h"	
+#include "4-4 DoubleLinkedLinst.h"	
 
 // 공백 이중 연결 리스트를 생성하는 연산
 linkedList_h* createLinkedList_h(void)

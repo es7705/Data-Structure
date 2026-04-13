@@ -1,7 +1,7 @@
 // 이중 연결 리스트에서 노드 삽입, 삭제, 탐색 하기
 #include <stdio.h>
 #include <stdlib.h>
-#include "4-4DoubleLinkedLinst.h"
+#include "4-4 DoubleLinkedLinst.h"
 
 int main()
 {
