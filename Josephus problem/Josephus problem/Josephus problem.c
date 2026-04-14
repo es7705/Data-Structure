@@ -53,7 +53,7 @@ void builCircularQueue(int n)
 		tail = tail->next;
 	}
 
-	// 원형큐를 만들기 위한 코드
+	// 원형 연결 리스트 완성: 마지막 노드의 next를 head로 연결
 	tail->next = head;
 }
 

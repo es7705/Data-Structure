@@ -22,8 +22,8 @@ long int fact(int n)
 	int value;
 	if (n <= 1)
 	{
-		printf("\n fact(1) 함수 호출!");
-		printf("\n fact(1) 값 1 반환!");
+		printf("\n fact(n<=1) 함수 호출!");
+		printf("\n fact(n<=1) 값 1 반환!");
 		return 1;
 	}
 
