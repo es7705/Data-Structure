@@ -175,6 +175,8 @@ treeNode* removeNode(treeNode* t, int target)
 {
 	treeNode* temp;
 
+	if (t == NULL) return t;
+
 	if (t != NULL)
 	{
 		if (t->value == target)

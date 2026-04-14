@@ -25,7 +25,7 @@ int main()
 	printf("\n D:\\의 용량 : %d M \n", postorder_FolderSize(F3));
 
 	FolderSize = 0;
-	printf("\n 내 컴퓨터의 전체 용량 : %d M \n", postorderS_FolderSize(F1));
+	printf("\n 내 컴퓨터의 전체 용량 : %d M \n", postorder_FolderSize(F1));
 
 	getchar();
 	return 0;
