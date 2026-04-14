@@ -1,7 +1,4 @@
 #pragma once
-#ifndef stack__H
-#define stack__H_
-
 #define STACK_SIZE 100
 
 typedef int element;	// 스탹 원소(element)의 자료형을 int로 정의
@@ -13,4 +10,3 @@ void push(element item);
 element pop(void);
 element peek(void);
 void printStack(void);
-#endif
