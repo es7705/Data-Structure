@@ -97,7 +97,7 @@ void printPoly(ListHead* L)
 	while (p)
 	{
 		printf("%3.0fx^%d", p->coef, p->expo);	// 현재 노드의 계수와 지수 출력
-		p = p->link;							// 다음 노드로 이동, 다음 차수로 이동
+		p = p->link;							// 다음 노드로 이동
 		if (p != NULL) printf(" +");			// 다음 노드가 있으면 '+' 출력
 	}
 }

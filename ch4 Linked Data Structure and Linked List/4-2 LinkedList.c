@@ -169,7 +169,7 @@ void reverse(linkedList_h* L)
 		r = q;			// r은 q의 값을 저장 (현재의 이전 노드를 가리킴)
 		q = p;			// q는 현재 노드를 가리킴
 		p = p->link;	// p는 다음 노드로 이동
-		q->link = r;	// p는 다음 노드로 이동
+		q->link = r;	// q의 link를 이전 노드(r)로 변경 → 링크 방향 반전
 	}
 	L->head = q;		// 마지막에 q는 새로운 head가 됨 (리스트의 마지막 노드)
 }
