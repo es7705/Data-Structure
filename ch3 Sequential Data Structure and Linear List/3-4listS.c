@@ -1,4 +1,3 @@
-
 #include "3-4listS.h"	
 
 // 선형 리스트의 원소 삽입
@@ -9,7 +8,7 @@ int insertElement(int L[], int n, int x)
 	// 원소의 크기를 비교하여 삽입 위치 k 찾기
 	for (i = 0; i < n; i++)
 	{
-		if (L[i] <= x && L[i + i] > x)	// x가 L[i]의 값과 같거나 크고 L[i+1]보다 작은 위치의 인덱스 찾기
+		if (L[i] <= x && L[i + 1] > x)	// x가 L[i]의 값과 같거나 크고 L[i+1]보다 작은 위치의 인덱스 찾기
 		{
 			k = i + 1;
 			break;
@@ -48,7 +47,7 @@ int deleteElement(int L[], int n, int x)
 		move = n;
 	}
 
-	// k + 1부터 마지막 원소까지 앞으로 자리 이동
+	// k번째부터 마지막 원소 전까지 앞으로 자리 이동
 	for (i = k; i < n - 1; i++)
 	{
 		L[i] = L[i + 1];				// 삭제한 원소 뒤의 원소를 앞으로 한 칸씩 이동

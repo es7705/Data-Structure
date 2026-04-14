@@ -14,10 +14,10 @@ int main()
 	printPoly(A);							// 다항식 A 출력
 
 	printf("\n B(x) =");
-	printPoly(B);							// 다항식 A 출력
+	printPoly(B);							// 다항식 B 출력
 
 	printf("\n C(x) =");
-	printPoly(C);							// 다항식 A 출력
+	printPoly(C);							// 다항식 C 출력
 
 	getchar();
 
