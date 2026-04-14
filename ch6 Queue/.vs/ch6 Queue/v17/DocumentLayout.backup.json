@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 LinkedQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-3 LinkedQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 ex6_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-3 ex6_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 cQueueS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-2 cQueueS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 queueS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-1 queueS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 ex6_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-1 ex6_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-3 LinkedQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 deQue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-4 deQue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 deQue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-4 deQue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 ex6_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-4 ex6_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 ex6_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-2 ex6_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 queueS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-1 queueS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 cQueueS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{493D77AA-08F5-4950-AA0C-8B3618C198A3}|ch6 Queue\\ch6 Queue.vcxproj|solutionrelative:ch6 Queue\\6-2 cQueueS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "6-3 LinkedQueue.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 LinkedQueue.h",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-3 LinkedQueue.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 LinkedQueue.h",
+              "RelativeToolTip": "ch6 Queue\\6-3 LinkedQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-13T14:59:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "6-2 cQueueS.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 cQueueS.h",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-2 cQueueS.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 cQueueS.h",
+              "RelativeToolTip": "ch6 Queue\\6-2 cQueueS.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-13T14:59:57.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "6-1 queueS.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 queueS.h",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-1 queueS.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 queueS.h",
+              "RelativeToolTip": "ch6 Queue\\6-1 queueS.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-13T14:59:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-3 LinkedQueue.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 LinkedQueue.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-3 LinkedQueue.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 LinkedQueue.c",
+              "RelativeToolTip": "ch6 Queue\\6-3 LinkedQueue.c",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T14:59:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6-3 ex6_3.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 ex6_3.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-3 ex6_3.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-3 ex6_3.c",
+              "RelativeToolTip": "ch6 Queue\\6-3 ex6_3.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T14:59:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "6-2 ex6_2.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 ex6_2.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-2 ex6_2.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 ex6_2.c",
+              "RelativeToolTip": "ch6 Queue\\6-2 ex6_2.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T14:59:53.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6-1 queueS.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 queueS.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-1 queueS.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 queueS.c",
+              "RelativeToolTip": "ch6 Queue\\6-1 queueS.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T14:59:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6-2 cQueueS.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 cQueueS.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-2 cQueueS.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-2 cQueueS.c",
+              "RelativeToolTip": "ch6 Queue\\6-2 cQueueS.c",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T14:59:52.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6-1 ex6_1.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 ex6_1.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-1 ex6_1.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-1 ex6_1.c",
+              "RelativeToolTip": "ch6 Queue\\6-1 ex6_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T14:59:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "6-4 ex6_4.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 ex6_4.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-4 ex6_4.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 ex6_4.c",
+              "RelativeToolTip": "ch6 Queue\\6-4 ex6_4.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-21T16:55:02.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "6-4 deQue.c",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 deQue.c",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-4 deQue.c",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 deQue.c",
+              "RelativeToolTip": "ch6 Queue\\6-4 deQue.c",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-21T16:55:01.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "6-4 deQue.h",
+              "DocumentMoniker": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 deQue.h",
+              "RelativeDocumentMoniker": "ch6 Queue\\6-4 deQue.h",
+              "ToolTip": "D:\\My data\\Study\\Coding\\Data-Structure\\ch6 Queue\\ch6 Queue\\6-4 deQue.h",
+              "RelativeToolTip": "ch6 Queue\\6-4 deQue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T16:54:59.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
