@@ -5,7 +5,7 @@
 // 공백 데크를 생성하는 연산
 DQueType* createDQue(void)
 {
-	DQueType* DQ;	// 데트 포인터 선언
+	DQueType* DQ;	// 노드 포인터 선언
 	DQ = (DQueType*)malloc(sizeof(DQueType));	
 	DQ->front = NULL;	// front 포인터 초기화 (데크의 앞쪽)
 	DQ->rear = NULL;	// rear 포인터 초기화 (데크의 뒤쪽)

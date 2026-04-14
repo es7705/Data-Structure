@@ -28,7 +28,7 @@ int isQueueEmpty(QueueType* Q)
 // 순차 쿠가 포화 상태인지 검사하는 연산
 int isQueueFull(QueueType* Q)
 {
-	if (Q->rear == Q_SIZE - 1)	// rear가 쿠의 최대 크기보다 크면 쿠가 포화 상태
+	if (Q->rear == Q_SIZE - 1)	// rear가 마지막 인덱스에 도달하면 큐가 포화 상태
 	{
 		printf(" Queue is full! \n\t ");
 		return 1;

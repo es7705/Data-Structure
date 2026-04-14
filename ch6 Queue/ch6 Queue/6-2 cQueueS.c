@@ -13,9 +13,9 @@ QueueType* createQueue(void)
 }
 
 // 원형 큐가 공백 상태인지 검사하는 연산
-int isCQueuEmpty(QueueType* cQ)
+int isCQueueEmpty(QueueType* cQ)
 {
-	if (cQ->front == cQ->rear)		// front와 reqr가 같으면 큐가 비어있음
+	if (cQ->front == cQ->rear)		// front와 rear가 같으면 큐가 비어있음
 	{
 		printf("Circular Queue is empty! ");
 		return 1;
@@ -52,7 +52,7 @@ void enCQueue(QueueType* cQ, element item)
 // 원형 큐의 front에서 원소를 삭제하고 반환하는 연산
 element deCQueue(QueueType* cQ)
 {
-	if (isCQueuEmpty(cQ))		// 큐가 공백 상태이면, 삭제 연산 중단
+	if (isCQueueEmpty(cQ))		// 큐가 공백 상태이면, 삭제 연산 중단
 		return;					// 함수 종료
 	else
 	{
@@ -64,10 +64,10 @@ element deCQueue(QueueType* cQ)
 // 원형 큐의 가장 앞에 있는 원소를 검색하는 연산
 element peekCQ(QueueType* cQ)
 {			
-	if (isCQueuEmpty(cQ))		// 큐가 공백 상태이면, 삭제 연산 중단
+	if (isCQueueEmpty(cQ))		// 큐가 공백 상태이면, 삭제 연산 중단
 		return;					// 함수 종료
 	else
-		return cQ->queue[(cQ->front + 1) % cQ_SIZE];	// fornt 다음 위치의 원소를 반환
+		return cQ->queue[(cQ->front + 1) % cQ_SIZE];	// front 다음 위치의 원소를 반환
 }
 
 // 원형 큐의 원소를 출력하는 연산
