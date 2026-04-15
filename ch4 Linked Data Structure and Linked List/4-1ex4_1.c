@@ -1,7 +1,7 @@
 // 4-1 단순 연결 리스트에 노드 삽입하기
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "4-1 InsertLinkedList.h"	
+#include "4-1InsertLinkedList.h"	
 
 int main()
 {

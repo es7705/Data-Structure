@@ -1,7 +1,7 @@
 // 단순 연결 리스트에 노드 삭제하고 탐색하가
 #include <stdio.h>
 #include <stdlib.h>
-#include "4-2 LinkedList.h"
+#include "4-2LinkedList.h"
 
 int main(void)
 {
