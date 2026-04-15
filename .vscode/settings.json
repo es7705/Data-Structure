@@ -1,5 +1,8 @@
 {
   "files.encoding": "euc-kr",
+  "[markdown]": {
+    "files.encoding": "utf8"
+  },
   "editor.formatOnSave": false,
   "C_Cpp.intelliSenseEngine": "default",
   "C_Cpp.errorSquiggles": "enabled",
