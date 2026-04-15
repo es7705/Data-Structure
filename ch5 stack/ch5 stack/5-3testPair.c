@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h> 
-#include "5-3 stackL.h"
-#include "5-3 testPair.h"
+#include "5-3stackL.h"
+#include "5-3testPair.h"
 
 // 수식의 괄호를 검사하는 연산
 int testPair(char* exp)

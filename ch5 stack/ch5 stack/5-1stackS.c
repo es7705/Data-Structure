@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "5-1 stackS.h"
+#include "5-1stackS.h"
 
 int top = -1;   
 

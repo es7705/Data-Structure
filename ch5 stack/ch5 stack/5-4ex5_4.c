@@ -1,7 +1,7 @@
 // 5-4 수식을 후위 표기법으로 연산하기
 #include <stdio.h>
-#include "5-4 stackL.h"
-#include "5-4 evalPostfix.h"
+#include "5-4stackL.h"
+#include "5-4evalPostfix.h"
 
 int main(void)
 {

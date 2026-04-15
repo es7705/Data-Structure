@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "5-4 stackL.h"	
+#include "5-4stackL.h"	
 
 // 스택이 공백 상태인지 확인하는 연산
 int isStackEmpty(void)

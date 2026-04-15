@@ -1,6 +1,6 @@
 #include <string.h>
-#include "5-4 stackL.h"
-#include "5-4 evalPostfix.h"
+#include "5-4stackL.h"
+#include "5-4evalPostfix.h"
 
 // 후위 표기법 수식을 계산하는 연산
 element evalPostfix(char* exp)
