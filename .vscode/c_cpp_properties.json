@@ -4,21 +4,32 @@
       "name": "Win32",
       "includePath": [
         "${workspaceFolder}/**",
-        "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include",
-        "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt",
-        "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um",
-        "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\shared"
+        "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/**",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/ucrt/**",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/um/**",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/shared/**"
       ],
       "defines": [
         "_DEBUG",
         "WIN32",
-        "_CONSOLE"
+        "_CONSOLE",
+        "_WIN32",
+        "_WIN64"
       ],
       "windowsSdkVersion": "10.0.26100.0",
-      "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe",
+      "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe",
       "cStandard": "c17",
       "cppStandard": "c++17",
-      "intelliSenseMode": "windows-msvc-x64"
+      "intelliSenseMode": "windows-msvc-x64",
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include",
+          "C:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/ucrt",
+          "C:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/um"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      }
     }
   ],
   "version": 4

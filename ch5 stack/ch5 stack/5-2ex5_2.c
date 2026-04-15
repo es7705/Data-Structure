@@ -1,6 +1,6 @@
 // 5-2 연결 자료구조를 이용해 연결 스택 구현하기
 #include <stdio.h>
-#include "5-2 stackL.h"
+#include "5-2stackL.h"
 
 int main(void)
 {
