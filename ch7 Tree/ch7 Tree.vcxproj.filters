@@ -36,33 +36,33 @@
     <ClCompile Include="BST.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="7-1 traversalIBT.c">
+    <ClCompile Include="7-1traversalIBT.c">
       <Filter>소스 파일\이진 트리 순회</Filter>
     </ClCompile>
-    <ClCompile Include="7-1 ex7_1.c">
+    <ClCompile Include="7-1ex7_1.c">
       <Filter>소스 파일\이진 트리 순회</Filter>
     </ClCompile>
-    <ClCompile Include="7-2 folderSize.c">
+    <ClCompile Include="7-2folderSize.c">
       <Filter>소스 파일\이진 트리 순회의 응용 프로그램</Filter>
     </ClCompile>
-    <ClCompile Include="7-2 ex7_2.c">
+    <ClCompile Include="7-2ex7_2.c">
       <Filter>소스 파일\이진 트리 순회의 응용 프로그램</Filter>
     </ClCompile>
-    <ClCompile Include="7-3 threadBT.c">
+    <ClCompile Include="7-3threadBT.c">
       <Filter>소스 파일\스래드 이진 트리</Filter>
     </ClCompile>
-    <ClCompile Include="7-3 ex7_3.c">
+    <ClCompile Include="7-3ex7_3.c">
       <Filter>소스 파일\스래드 이진 트리</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="7-1 traversalIBT.h">
+    <ClInclude Include="7-1traversalIBT.h">
       <Filter>헤더 파일\이진 트리 순회</Filter>
     </ClInclude>
-    <ClInclude Include="7-2 folderSize.h">
+    <ClInclude Include="7-2folderSize.h">
       <Filter>헤더 파일\이진 트리 순회의 응용 프로그램</Filter>
     </ClInclude>
-    <ClInclude Include="7-3 threadBT.h">
+    <ClInclude Include="7-3threadBT.h">
       <Filter>헤더 파일\스래드 이진 트리</Filter>
     </ClInclude>
   </ItemGroup>

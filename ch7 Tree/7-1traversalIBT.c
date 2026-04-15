@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "7-1 traversalIBT.h"
+#include "7-1traversalIBT.h"
 
 // data를 루트 노드로 하여 왼쪽 서브 트리와 오른쪽 서브 트리를 연결하는 연산
 treeNdoe* makeRootNode(element data, treeNdoe* leftNode, treeNdoe* rightNode)

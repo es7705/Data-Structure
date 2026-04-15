@@ -1,7 +1,7 @@
 // 7-1 이진 트리 순회하기
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "7-1 traversalIBT.h"
+#include "7-1traversalIBT.h"
 
 int main()
 {

@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "7-2 folderSize.h"
+#include "7-2folderSize.h"
 
 // size를 루트 노드의 데이터 필드로 하여 왼쪽과 오른쪽 서브 트리에 연결하는 연산
 treeNode* makeRootNode(int size, treeNode* leftNode, treeNode* rightNode)

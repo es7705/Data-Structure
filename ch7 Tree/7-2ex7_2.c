@@ -1,7 +1,7 @@
 // 이진 트리의 후위 순회를 이용해 폴더 용량 계산하기
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "7-2 folderSize.h"
+#include "7-2folderSize.h"
 
 int main()
 {
