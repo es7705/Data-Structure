@@ -1,6 +1,6 @@
 #include <stdio.h>	
 #include <stdlib.h>
-#include "6-1 queueS.h"
+#include "6-1queueS.h"
 
 // 공백 순차 큐를 생성하는 연산
 QueueType* createQueue(void)

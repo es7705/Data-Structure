@@ -1,6 +1,6 @@
 // 6-1 순차 자료구조를 이용해 순차 큐 구현하기
 #include <stdio.h>
-#include "6-1 queueS.h"	
+#include "6-1queueS.h"	
 
 int main(void)
 {

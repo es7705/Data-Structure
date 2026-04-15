@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>	
-#include "6-3 LinkedQueue.h"
+#include "6-3LinkedQueue.h"
 
 // 공배 연결 큐를 생성하는 연산
 LQueueType* createLinkedQueue(void)

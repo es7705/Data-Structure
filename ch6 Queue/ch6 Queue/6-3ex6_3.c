@@ -1,6 +1,6 @@
 // 6-3 연결 자료구조를 이용해 연결 큐 구현하기
 #include <stdio.h>
-#include "6-3 LinkedQueue.h"
+#include "6-3LinkedQueue.h"
 
 int main(void)
 {

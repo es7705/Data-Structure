@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "6-4 deQue.h"
+#include "6-4deQue.h"
 
 // 공백 데크를 생성하는 연산
 DQueType* createDQue(void)
